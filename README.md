@@ -77,18 +77,6 @@ Two sets of tests are expected:
 - Functionality of the `HashDictionary` using `TestDict.java`.
 - Game logic using `Play.java`.
 
-## Evaluation
-
-- Total: 20 marks
-  - HashDictionary & Configurations: 8 marks
-  - Code implementation & style: 8 marks
-  - Compilation & correctness: 4 marks
-
-## Submission Notes
-
-- Submit only your `.java` files (no folders or compressed files).
-- Submit via OWL before the due date.
-
 ## License
 
 This project is part of Western University’s CS 2210a — Data Structures and Algorithms coursework. For academic use only.
